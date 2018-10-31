@@ -23,3 +23,7 @@ In other words, the things you can acomplish when modeling social psychological 
 * Encyclopedic knowledge of modeling environments
 
 In other words, the nitty-gritty details of modeling social psychological phenomena.
+
+## Workshop Materials
+[Slides](./slides.pdf) 
+
