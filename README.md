@@ -4,11 +4,11 @@ Materials for the workshop, presented at the small group meeting *Introducing St
 
 This workshop targets a general audience, assuming no prior familiarity with modeling, social networks, or other topics.  The workshop is broken into roughly five parts:
 
-1 - Introduction & Background
-2 - Agent-Based Modeling
-3 - Networks
-4 - Social Influence
-5 - Next Steps & Future Directions
+1. Introduction & Background
+2. Agent-Based Modeling
+3. Networks
+4. Social Influence
+5. Next Steps & Future Directions
 
 ## Goals of the workshop
 * Cultivate an awareness and an appreciation of the benefits of agent-based modeling and computational descriptions of social psychological phenomena
